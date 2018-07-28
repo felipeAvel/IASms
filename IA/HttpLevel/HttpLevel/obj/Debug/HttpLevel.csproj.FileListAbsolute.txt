@@ -4,3 +4,6 @@ C:\Users\Programacao\Desktop\Programação\IA\HttpLevel\HttpLevel\bin\Debug\Http
 C:\Users\Programacao\Desktop\Programação\IA\HttpLevel\HttpLevel\obj\Debug\HttpLevel.csprojResolveAssemblyReference.cache
 C:\Users\Programacao\Desktop\Programação\IA\HttpLevel\HttpLevel\obj\Debug\HttpLevel.exe
 C:\Users\Programacao\Desktop\Programação\IA\HttpLevel\HttpLevel\obj\Debug\HttpLevel.pdb
+C:\Users\Public\Repos\Source\IASms\IA\HttpLevel\HttpLevel\bin\Debug\HttpLevel.exe.config
+C:\Users\Public\Repos\Source\IASms\IA\HttpLevel\HttpLevel\obj\Debug\HttpLevel.exe
+C:\Users\Public\Repos\Source\IASms\IA\HttpLevel\HttpLevel\obj\Debug\HttpLevel.pdb
