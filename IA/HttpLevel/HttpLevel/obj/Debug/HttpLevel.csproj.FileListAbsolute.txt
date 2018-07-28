@@ -1,0 +1,6 @@
+C:\Users\Programacao\Desktop\Programação\IA\HttpLevel\HttpLevel\bin\Debug\HttpLevel.exe.config
+C:\Users\Programacao\Desktop\Programação\IA\HttpLevel\HttpLevel\bin\Debug\HttpLevel.exe
+C:\Users\Programacao\Desktop\Programação\IA\HttpLevel\HttpLevel\bin\Debug\HttpLevel.pdb
+C:\Users\Programacao\Desktop\Programação\IA\HttpLevel\HttpLevel\obj\Debug\HttpLevel.csprojResolveAssemblyReference.cache
+C:\Users\Programacao\Desktop\Programação\IA\HttpLevel\HttpLevel\obj\Debug\HttpLevel.exe
+C:\Users\Programacao\Desktop\Programação\IA\HttpLevel\HttpLevel\obj\Debug\HttpLevel.pdb
